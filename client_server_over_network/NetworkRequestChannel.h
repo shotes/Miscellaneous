@@ -1,12 +1,3 @@
-/*
-    File: reqchannel.H
-
-    Author: R. Bettati
-            Department of Computer Science
-            Texas A&M University
-    Date  : 2012/07/11
-
-*/
 
 #ifndef _NetworkRequestChannel_H_                   // include file only once
 #define _NetworkRequestChannel_H_
