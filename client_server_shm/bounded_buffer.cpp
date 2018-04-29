@@ -2,7 +2,7 @@
 //  bounded_buffer.cpp
 //  
 //
-//  Created by Joshua Higginbotham on 11/4/15.
+//  Created by Shota E.
 //
 //
 
