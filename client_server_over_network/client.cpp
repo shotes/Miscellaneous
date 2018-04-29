@@ -1,22 +1,3 @@
-/*
-    File: client.cpp
-
-    Author: J. Higginbotham
-    Department of Computer Science
-    Texas A&M University
-    Date  : 2016/05/21
-
-    Based on original code by: Dr. R. Bettati, PhD
-    Department of Computer Science
-    Texas A&M University
-    Date  : 2013/01/31
-
-    Edited by Jerry Yiu
-    Based on PA4 from Taylor Lockhart
-    Department of Computer Science
-    Texas A&M University
-    04/18/2018
- */
 
 #include <signal.h>
 #include <iomanip>
