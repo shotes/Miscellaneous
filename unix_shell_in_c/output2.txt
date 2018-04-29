@@ -1,0 +1,4 @@
+-rwxr-xr-x 1 shotes shotes 101488 Feb 27 15:59 a.out
+-rw-r--r-- 1 shotes shotes      0 Feb 27 15:59 output.txt
+-rw-rw-r-- 1 shotes shotes   6723 Feb 25 23:23 pa2.cpp
+-rw-rw-r-- 1 shotes shotes   1528 Feb 25 22:40 Tokenizer.cpp
