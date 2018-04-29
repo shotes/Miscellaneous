@@ -1,6 +1,4 @@
 #!/bin/sh
-#  test.sh
-#  Created by Joshua Higginbotham on 11/8/15.
 
 echo "Cleaning..."
 make clean
