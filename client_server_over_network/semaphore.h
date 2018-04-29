@@ -1,12 +1,3 @@
-/* 
-    File: semaphore.H
-
-    Author: R. Bettati
-            Department of Computer Science
-            Texas A&M University
-    Date  : 08/02/11
-
-*/
 
 #ifndef _semaphore_H_                   // include file only once
 #define _semaphore_H_
