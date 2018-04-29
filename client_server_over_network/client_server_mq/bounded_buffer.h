@@ -1,10 +1,3 @@
-//
-//  bounded_buffer.hpp
-//  
-//
-//  Created by Joshua Higginbotham on 11/4/15.
-//
-//
 
 #ifndef bounded_buffer_h
 #define bounded_buffer_h
