@@ -1,13 +1,4 @@
-/*
-    File: dataserver.C
 
-    Author: R. Bettati
-            Department of Computer Science
-            Texas A&M University
-    Date  : 2012/07/16
-
-    Dataserver main program for MP3 in CSCE 313
-*/
 
 /*--------------------------------------------------------------------------*/
 /* DEFINES */
