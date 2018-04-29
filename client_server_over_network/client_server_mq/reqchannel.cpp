@@ -1,12 +1,3 @@
-/*
-    File: requestchannel.C
-
-    Author: R. Bettati
-            Department of Computer Science
-            Texas A&M University
-    Date  : 2012/07/11
-
-*/
 
 /*--------------------------------------------------------------------------*/
 /* DEFINES */
