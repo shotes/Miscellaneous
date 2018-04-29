@@ -1,19 +1,3 @@
-/*
-    File: client_solution_E8.cpp
-
-    Author: J. Higginbotham
-    Department of Computer Science
-    Texas A&M University
-    Date  : 2016/05/21
-
-    Based on original code by: Dr. R. Bettati, PhD
-    Department of Computer Science
-    Texas A&M University
-    Date  : 2013/01/31
-
-    MP8 for Dr. //Tyagi's
-    Ahmed's sections of CSCE 313.
- */
 
 /*--------------------------------------------------------------------------*/
 /* DEFINES */
